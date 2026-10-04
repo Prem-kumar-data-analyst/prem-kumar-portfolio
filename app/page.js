@@ -8,7 +8,7 @@ const projects = [
     description:
       "Collected Gujarat Engineering College data from multiple public sources and built an interactive Power BI dashboard covering NAAC accreditation, placement, internship, research, university and district-wise insights.",
     tech: ["Python", "SQL", "Excel", "Power BI"],
-    image: "/projects/gujarat-colleges.png",
+    image: "/project/gujarat-colleges.png",
     github: "https://github.com/Prem-kumar-data-analyst/Gujarat-colleges-data-analysis",
   },
   {
@@ -16,7 +16,7 @@ const projects = [
     description:
       "Analyzed India's exam paper leak incidents using Python and Power BI, with KPI cards, year-wise trends, geographical analysis and NDA vs UPA comparisons.",
     tech: ["Python", "SQL", "Power BI"],
-    image: "/projects/exam-paper-leak.png",
+    image: "/project/exam-paper-leak.png",
     github: "https://github.com/Prem-kumar-data-analyst/Exam-Paper-Leak-Analysis",
   },
   {
@@ -24,7 +24,7 @@ const projects = [
     description:
       "Analyzed customer data to identify purchasing patterns and high-value customer segments, then presented the findings through an interactive Power BI dashboard.",
     tech: ["Python", "SQL", "Power BI"],
-    image: "/projects/customer-behavior.png",
+    image: "/project/customer-behavior.png",
     github: "https://github.com/Prem-kumar-data-analyst/Customer_Behavior_Analysis",
   },
 ];
