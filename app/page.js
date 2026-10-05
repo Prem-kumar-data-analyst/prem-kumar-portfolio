@@ -8,7 +8,7 @@ const projects = [
     description:
       "Collected Gujarat Engineering College data from multiple public sources and built an interactive Power BI dashboard covering NAAC accreditation, placement, internship, research, university and district-wise insights.",
     tech: ["Python", "SQL", "Excel", "Power BI"],
-    image: "/project/gujarat-colleges.png",
+    image: "/project/Gujarat-Engineering-College.png",
     github: "https://github.com/Prem-kumar-data-analyst/Gujarat-colleges-data-analysis",
   },
   {
