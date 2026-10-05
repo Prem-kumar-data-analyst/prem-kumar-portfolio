@@ -13,11 +13,7 @@ This portfolio showcases my skills, projects, professional experience, education
 ## 🌐 Portfolio
 
 🔗 **Live Portfolio:**  
-Add your deployed Vercel link here
-
-Example:
-
-https://your-portfolio.vercel.app
+https://prem-kumar-portfolio1-ten.vercel.app
 
 ---
 
